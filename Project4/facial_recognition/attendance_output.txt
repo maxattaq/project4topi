@@ -1,0 +1,8 @@
+Alice: 3
+Bob: 1
+Charlie: 2
+Attendance Count: 3
+Dates:
+2024-12-5
+2024-12-6
+2024-12-7

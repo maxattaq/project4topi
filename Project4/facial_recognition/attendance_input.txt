@@ -1,0 +1,6 @@
+2024-11-29
+Max: 1
+Bob: 0
+Charlie: 0
+David: 0
+Eve: 0
